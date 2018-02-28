@@ -1,0 +1,27 @@
+{
+  "name": "understanddatastructures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theu/understandDataStructures.git"
+  },
+  "author": "mc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theu/understandDataStructures/issues"
+  },
+  "homepage": "https://github.com/Theu/understandDataStructures#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.4.1",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.2",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
